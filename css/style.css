@@ -7213,11 +7213,11 @@ a.text-dark:hover, a.text-dark:focus {
 p.ubication {
   font-family: 'Lato', sans-serif;
   font-size: 1.2rem;
-  font-weight: 400;
+  font-weight: 600;
   text-align: justify; }
 
 .txt-img {
-  padding-left: 10px; }
+  padding-left: 20px; }
 
 .logoFooter, .encabezadoFooter {
   font-family: 'Anton', sans-serif;
