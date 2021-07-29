@@ -7229,7 +7229,7 @@ p.ubication {
   font-size: 2rem; }
 
 footer {
-  border-top: 1px solid black;
+  border-top: 2px dashed orange;
   margin: 50px 0px;
   padding: 0px 20px; }
 
